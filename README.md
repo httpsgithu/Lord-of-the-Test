@@ -52,7 +52,7 @@ You can find us at IRC [#lordofthetest on libera](https://web.libera.chat/?chann
 
 Thank you all for your support and help along the journey - we wouldn't have been able to this far without your help! While this part of the road is over, there is an even bigger one ahead of us!  The journey is exciting, and who knows where it will lead? Stay tuned for more information, and if you want, keep an eye out for a possible new development blog [here](https://minetest-lotr.github.io/)!
 
-*- fishyWET (neinwhal) & Amaz*
+*- wrynvera & Amaz*
 
 -----------------------------------------------------------------------------------------------
 
@@ -81,11 +81,10 @@ If you need more assistance with this, please refer to [these instructions](http
 
 #### License:
 
-Code: *LGPL v2.1*
+- **Code:** LGPL v2.1
+- **Textures:** CC BY-SA 3.0
 
-Textures: *CC BY-SA 3.0*
-
-See the license.txt of each mod for more information regarding authorship of each mod.
+See the `license.txt` file included with each mod for more information regarding authorship and licensing.
 
 -----------------------------------------------------------------------------------------------
 
@@ -93,21 +92,77 @@ See the license.txt of each mod for more information regarding authorship of eac
 
 See [CONTRIBUTING.md](https://github.com/minetest-LOTR/Lord-of-the-Test/blob/master/CONTRIBUTING.md) if you want to contribute.
 
-A full list of contributors can be found here:
+**Lord of the Test** is built upon the work of many contributors, past and present.
 
-[**List of Awesome Contributors**](https://github.com/minetest-LOTR/Lord-of-the-Test/graphs/contributors)
+<a href="https://github.com/minetest-LOTR/Legacy/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=minetest-LOTR/Legacy" alt="GitHub contributors" />
+</a>
 
-Additional contributors *(who are not listed above due to them not pushing their work directly to this repository)*:
+[View the full list of GitHub contributors](https://github.com/minetest-LOTR/Legacy/graphs/contributors?all=1)
 
-- AspireMint
-- Gabo (@GaboXandre)
-- philipbenr (@philipbenr)
-- STHGOM / sparky
-- Thomas-S (@Thomas--S)
+#### Additional Contributors
 
-minetest-LOTR Members:
-- fishyWET (@neinwhal)
-- Amaz (@Amaz1)
-- Lumidify Productions (@lumidify)
+Some contributors may not appear in GitHub's contributor list because their work was contributed outside this repository or through accounts that are no longer available.
+
+In no particular order:
+
+**AspireMint** · [Gabo](https://github.com/GaboXandre) · [philipbenr](https://github.com/philipbenr) · [Elkien3](https://github.com/Elkien3) · [Thomas-S](https://github.com/Thomas--S) · **Flipsels** · [Corvus](https://github.com/theraven262)
+
+#### Notable Contributors
+
+People who played a significant role in the development and history of Lord of the Test, in no particular order:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/catninja-">
+        <img src="https://github.com/catninja-.png?size=80" width="80" alt="catninja-"><br>
+        <b>catninja-</b>
+      </a><br>
+      <sub>Code & Textures<br>Decorations</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Elkien3">
+        <img src="https://github.com/Elkien3.png?size=80" width="80" alt="Elkien3"><br>
+        <b>Elkien3</b>
+      </a><br>
+      <sub>Models & Sound<br>Mobs, Instruments</sub>
+    </td>
+    <td align="center">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+            width="80" height="80" alt="Flipsels"><br>
+        <b>Flipsels</b><br>
+        <sub>Code & Textures<br>Armors/Clothing</sub>
+    </td>
+  </tr>
+</table>
+
+#### minetest-LOTR Members
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wrynvera" title="wrynvera (aka fishyWET/neinwhal)">
+        <img src="https://github.com/wrynvera.png?size=80" width="80" alt="wrynvera"><br>
+        <b>wrynvera</b>
+      </a><br>
+      <sub>AKA fishyWET/neinwhal<br>Original Developer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Amaz1">
+        <img src="https://github.com/Amaz1.png?size=80" width="80" alt="Amaz"><br>
+        <b>Amaz</b>
+      </a><br>
+      <sub>Early, Core Developer<br>Made most things possible</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lumidify">
+        <img src="https://github.com/lumidify.png?size=80" width="80" alt="Lumidify Productions"><br>
+        <b>Lumidify Productions</b>
+      </a><br>
+      <sub>Developer & Maintainer<br>&nbsp</sub>
+    </td>
+  </tr>
+</table>
 
 -----------------------------------------------------------------------------------------------
